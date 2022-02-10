@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SWT-Calc/1.0.0": {
+        "runtime": {
+          "SWT-Calc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWT-Calc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

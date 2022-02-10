@@ -1,0 +1,26 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=102b14ca_002D7e34_002D4ac0_002Dbf1a_002D9522924bf581/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Addition_One_Plus_One_Equal_Two #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A05DF360-CCC6-404C-B09F-C30764A492D5::net6.0::CalcNUnit.Calctest.Addition_One_Plus_One_Equal_Two&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=321f3a69_002Dd75f_002D4621_002Db1cd_002D52c911caf7fb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Addition_One_Plus_One_Equal_Two #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A05DF360-CCC6-404C-B09F-C30764A492D5::net6.0::CalcNUnit.Calctest.Addition_One_Plus_One_Equal_Two&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=450fd296_002D5557_002D431f_002Dbbd6_002De506eba7fee4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calctest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A05DF360-CCC6-404C-B09F-C30764A492D5::net6.0::CalcNUnit.Calctest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58d427fe_002D6379_002D45aa_002Daf0c_002D9d3298ec9f35/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Addition_One_Plus_One_Equal_Two #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A05DF360-CCC6-404C-B09F-C30764A492D5::net6.0::CalcNUnit.Calctest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc56c072_002Dca71_002D44fa_002D9d45_002D6053aa2f78bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Addition_One_Plus_One_Equal_Two" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::A05DF360-CCC6-404C-B09F-C30764A492D5::net6.0::CalcNUnit.Calctest.Addition_One_Plus_One_Equal_Two&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
