@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0dc24c7-3052-4b8b-a0a7-91a7a5243081": {
+      "ProjectGuid": "f0dc24c7-3052-4b8b-a0a7-91a7a5243081",
+      "DisplayName": "SWT-Calc",
+      "ColorIndex": 0
+    },
+    "337b535b-5eeb-499a-8864-b27b1bb9e510": {
+      "ProjectGuid": "337b535b-5eeb-499a-8864-b27b1bb9e510",
+      "DisplayName": "SWT-calc-NUit",
+      "ColorIndex": 1
+    },
+    "0b8cf52e-3607-433c-b65e-61e87865a59c": {
+      "ProjectGuid": "0b8cf52e-3607-433c-b65e-61e87865a59c",
+      "DisplayName": "SWT-Calc",
+      "ColorIndex": 2
+    },
+    "a05df360-ccc6-404c-b09f-c30764a492d5": {
+      "ProjectGuid": "a05df360-ccc6-404c-b09f-c30764a492d5",
+      "DisplayName": "SWT-Calc.Test.Unit",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "daa93592-8713-435e-9b68-c50276566c96": {
+      "ProjectGuid": "daa93592-8713-435e-9b68-c50276566c96",
+      "DisplayName": "SWT-Calc",
+      "ColorIndex": 4
+    },
+    "c25a9f15-f76c-471d-8b1b-2393d317da47": {
+      "ProjectGuid": "c25a9f15-f76c-471d-8b1b-2393d317da47",
+      "DisplayName": "Calculator",
+      "ColorIndex": 5
+    },
+    "c93a8695-fe2d-45a8-89e3-b8418320304c": {
+      "ProjectGuid": "c93a8695-fe2d-45a8-89e3-b8418320304c",
+      "DisplayName": "Calculator.Test.Unit",
+      "ColorIndex": 6
+    },
+    "8d4f4251-ca11-4057-9315-816991e48640": {
+      "ProjectGuid": "8d4f4251-ca11-4057-9315-816991e48640",
+      "DisplayName": "Calculator.Test.Unit",
+      "ColorIndex": 7
+    },
+    "2c8a5a15-ca72-4f11-b7b0-0129d325bb2d": {
+      "ProjectGuid": "2c8a5a15-ca72-4f11-b7b0-0129d325bb2d",
+      "DisplayName": "Calculator",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
