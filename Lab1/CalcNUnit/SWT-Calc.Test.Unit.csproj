@@ -17,8 +17,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Calc\SWT-Calc.csproj" />
-  </ItemGroup>
-
 </Project>

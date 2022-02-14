@@ -882,16 +882,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "SWT-Calc/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/SWT-Calc.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SWT-Calc.dll": {}
-        }
       }
     }
   },
@@ -3854,11 +3844,6 @@
         "system.xml.xdocument.4.0.11.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "SWT-Calc/1.0.0": {
-      "type": "project",
-      "path": "../Calc/SWT-Calc.csproj",
-      "msbuildProject": "../Calc/SWT-Calc.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3866,7 +3851,6 @@
       "Microsoft.NET.Test.Sdk >= 17.0.0",
       "NUnit >= 3.13.2",
       "NUnit3TestAdapter >= 4.2.1",
-      "SWT-Calc >= 1.0.0",
       "coverlet.collector >= 3.1.1"
     ]
   },
@@ -3901,11 +3885,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Skole\\source\\repos\\SoftwareTest_DinEgenGit\\Lab1\\Calc\\SWT-Calc.csproj": {
-              "projectPath": "C:\\Users\\Skole\\source\\repos\\SoftwareTest_DinEgenGit\\Lab1\\Calc\\SWT-Calc.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
