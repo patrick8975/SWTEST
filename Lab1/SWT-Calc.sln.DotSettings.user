@@ -16,7 +16,7 @@
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58d427fe_002D6379_002D45aa_002Daf0c_002D9d3298ec9f35/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Addition_One_Plus_One_Equal_Two #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::A05DF360-CCC6-404C-B09F-C30764A492D5::net6.0::CalcNUnit.Calctest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::8D4F4251-CA11-4057-9315-816991E48640::net6.0::Calculator.Test.Unit.Tests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc56c072_002Dca71_002D44fa_002D9d45_002D6053aa2f78bb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Addition_One_Plus_One_Equal_Two" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
